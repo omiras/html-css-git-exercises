@@ -23,8 +23,8 @@
 }
 
 .countries--third .country--croatia,
-.country--ethiopia,
-.country--laos {
+.countries--third .country--ethiopia,
+.countries--third .country--laos {
   align-self: flex-end;
 }
 
@@ -34,8 +34,8 @@
   align-items: center;
 }
 .countries--fourth .country--brazil,
-.country--ethiopia,
-.country--croatia,
-.country--laos {
+.countries--fourth .country--ethiopia,
+.countries--fourth .country--croatia,
+.countries--fourth .country--laos {
   align-self: flex-start;
 }
