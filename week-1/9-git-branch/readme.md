@@ -8,7 +8,7 @@ In this case, we use branches to create copies of our messages. In one version w
 
 First, open the terminal in your code editor. _The terminal is where you entered `npm run 9` to run this exercise._
 
-Check which branch you are currently in by entering the following command into your terminal:
+Check which branch you are currently inpm run 9n by entering the following command into your terminal:
 
 ```
 git branch
