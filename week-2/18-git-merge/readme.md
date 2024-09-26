@@ -62,13 +62,3 @@ On the next page, check to make sure the correct branch is showing where the arr
 When you're ready to create the pull request, click the **Create Pull Request** button.
 
 ![Screenshot of the new pull request screen in GitHub](/images/18/pull-request-2.png)
-
-Now that you've created the pull request, make some final checks and then merge it.
-
-1. It shows each commit you made on the branch. Make sure you _only_ see the commits you expect to see.
-2. Click the **Files Changed** link to see a list of all the changes you are about to merge. Make sure you _only_ see the changes you expect to see.
-3. When you're ready, click the **Merge Pull Request** button.
-
-![Screenshot of the open pull request screen in GitHub](/images/18/pull-request-3.png)
-
-Congratulations! You have now changed the colour of the links and merged those changes to your `master` branch.
